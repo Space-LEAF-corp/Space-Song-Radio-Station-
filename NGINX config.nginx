@@ -1,0 +1,13 @@
+# Place inside your server {} block
+
+location = /security.txt {
+    alias /var/www/spacesongstation/security.txt;
+    default_type text/plain;
+    add_header Cache-Control "public, max-age=86400";
+}
+
+location = /.well-known/security.txt {
+    alias /var/www/spacesongstation/security.txt;
+    default_type text/plain;
+    add_header Cache-Control "public, max-age=86400";
+}
