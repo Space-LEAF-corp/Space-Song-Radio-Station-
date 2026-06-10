@@ -1,0 +1,16 @@
+# Space Song Radio Station — Security Contact File
+# Follows RFC 9116 (security.txt standard)
+
+Contact: mailto:security@spacesongstation.org
+Contact: mailto:safety@spacesongstation.org
+
+# Optional encryption key (add later if desired)
+# Encryption: https://spacesongstation.org/pgp-key.txt
+
+Preferred-Languages: en
+Canonical: https://spacesongstation.org/.well-known/security.txt
+
+Policy: https://github.com/Space-Song-Radio-Station/SECURITY.md
+Acknowledgments: https://spacesongstation.org/security/hall-of-thanks
+
+Expires: 2027-01-01T00:00:00Z
