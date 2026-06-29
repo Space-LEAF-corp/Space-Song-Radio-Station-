@@ -93,3 +93,4 @@ Timestamp
 
 Scope
 
+Resulting actions
